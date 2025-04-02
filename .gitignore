@@ -1,1 +1,5 @@
 images/
+dataset/
+dataset_*/
+ocr/
+.DS_Store

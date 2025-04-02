@@ -205,7 +205,7 @@ for each in arr:
     image = cv2.imread(each)
 
     # Read the desired model
-    path = r'/Users/lovro/Desktop/Image-preprocessing - testing branch/30.5/FSRCNN_Tensorflow-master/models/FSRCNN_x4.pb'
+    path = r'/Users/lovro/Desktop/OCR-LLM-Enhancer/FSRCNN-small_x4.pb'
     sr.readModel(path)
 
     # Set the desired model and scale to get correct pre- and post-processing
