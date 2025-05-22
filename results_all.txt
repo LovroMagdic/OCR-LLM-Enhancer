@@ -1,0 +1,167 @@
+byT5-v3
+Z05353396.txt
+Similarity for LLM and truth: 0.4648
+Similarity for ocr and truth: 0.5233
+Similarity for ocr and llm: 0.7648
+Z05353401.txt
+Similarity for LLM and truth: 0.5457
+Similarity for ocr and truth: 0.5676
+Similarity for ocr and llm: 0.7597
+Z05353422.txt
+Similarity for LLM and truth: 0.5858
+Similarity for ocr and truth: 0.6506
+Similarity for ocr and llm: 0.7987
+Z05353424.txt
+Similarity for LLM and truth: 0.6961
+Similarity for ocr and truth: 0.7390
+Similarity for ocr and llm: 0.8200
+Z05353668.txt
+Similarity for LLM and truth: 0.5920
+Similarity for ocr and truth: 0.6516
+Similarity for ocr and llm: 0.7484
+Z05353673.txt
+Similarity for LLM and truth: 0.5673
+Similarity for ocr and truth: 0.5747
+Similarity for ocr and llm: 0.7811
+Z05353721.txt
+Similarity for LLM and truth: 0.2632
+Similarity for ocr and truth: 0.3030
+Similarity for ocr and llm: 0.7799
+Z05353758.txt
+Similarity for LLM and truth: 0.5955
+Similarity for ocr and truth: 0.6416
+Similarity for ocr and llm: 0.7963
+Z05353778.txt
+Similarity for LLM and truth: 0.6529
+Similarity for ocr and truth: 0.6934
+Similarity for ocr and llm: 0.7519
+Z05353836.txt
+Similarity for LLM and truth: 0.6642
+Similarity for ocr and truth: 0.6924
+Similarity for ocr and llm: 0.7863
+
+byT5-v2
+Z05353396.txt
+Similarity for LLM and truth: 0.4777
+Similarity for ocr and truth: 0.5233
+Similarity for ocr and llm: 0.7748
+Z05353401.txt
+Similarity for LLM and truth: 0.5419
+Similarity for ocr and truth: 0.5676
+Similarity for ocr and llm: 0.7753
+Z05353422.txt
+Similarity for LLM and truth: 0.5812
+Similarity for ocr and truth: 0.6506
+Similarity for ocr and llm: 0.8080
+Z05353424.txt
+Similarity for LLM and truth: 0.7064
+Similarity for ocr and truth: 0.7390
+Similarity for ocr and llm: 0.8428
+Z05353668.txt
+Similarity for LLM and truth: 0.5936
+Similarity for ocr and truth: 0.6516
+Similarity for ocr and llm: 0.7647
+Z05353673.txt
+Similarity for LLM and truth: 0.5680
+Similarity for ocr and truth: 0.5747
+Similarity for ocr and llm: 0.7915
+Z05353721.txt
+Similarity for LLM and truth: 0.2679
+Similarity for ocr and truth: 0.3030
+Similarity for ocr and llm: 0.7799
+Z05353758.txt
+Similarity for LLM and truth: 0.5984
+Similarity for ocr and truth: 0.6416
+Similarity for ocr and llm: 0.8071
+Z05353778.txt
+Similarity for LLM and truth: 0.6483
+Similarity for ocr and truth: 0.6934
+Similarity for ocr and llm: 0.7661
+Z05353836.txt
+Similarity for LLM and truth: 0.6789
+Similarity for ocr and truth: 0.6924
+Similarity for ocr and llm: 0.8042
+
+byT5-small
+Z05353396.txt
+Similarity for LLM and truth: 0.4937
+Similarity for ocr and truth: 0.5233
+Similarity for ocr and llm: 0.8570
+Z05353401.txt
+Similarity for LLM and truth: 0.5576
+Similarity for ocr and truth: 0.5676
+Similarity for ocr and llm: 0.8703
+Z05353422.txt
+Similarity for LLM and truth: 0.6183
+Similarity for ocr and truth: 0.6506
+Similarity for ocr and llm: 0.8685
+Z05353424.txt
+Similarity for LLM and truth: 0.7281
+Similarity for ocr and truth: 0.7390
+Similarity for ocr and llm: 0.9055
+Z05353668.txt
+Similarity for LLM and truth: 0.6185
+Similarity for ocr and truth: 0.6516
+Similarity for ocr and llm: 0.8544
+Z05353673.txt
+Similarity for LLM and truth: 0.5668
+Similarity for ocr and truth: 0.5747
+Similarity for ocr and llm: 0.8613
+Z05353721.txt
+Similarity for LLM and truth: 0.2654
+Similarity for ocr and truth: 0.3030
+Similarity for ocr and llm: 0.7630
+Z05353758.txt
+Similarity for LLM and truth: 0.5961
+Similarity for ocr and truth: 0.6416
+Similarity for ocr and llm: 0.8493
+Z05353778.txt
+Similarity for LLM and truth: 0.6737
+Similarity for ocr and truth: 0.6934
+Similarity for ocr and llm: 0.8746
+Z05353836.txt
+Similarity for LLM and truth: 0.6783
+Similarity for ocr and truth: 0.6924
+Similarity for ocr and llm: 0.8907
+
+byT5-5k
+Z05353396.txt
+Similarity for LLM and truth: 0.4922
+Similarity for ocr and truth: 0.5233
+Similarity for ocr and llm: 0.8385
+Z05353401.txt
+Similarity for LLM and truth: 0.5659
+Similarity for ocr and truth: 0.5676
+Similarity for ocr and llm: 0.8558
+Z05353422.txt
+Similarity for LLM and truth: 0.6128
+Similarity for ocr and truth: 0.6506
+Similarity for ocr and llm: 0.8379
+Z05353424.txt
+Similarity for LLM and truth: 0.7106
+Similarity for ocr and truth: 0.7390
+Similarity for ocr and llm: 0.8789
+Z05353668.txt
+Similarity for LLM and truth: 0.6068
+Similarity for ocr and truth: 0.6516
+Similarity for ocr and llm: 0.8377
+Z05353673.txt
+Similarity for LLM and truth: 0.5455
+Similarity for ocr and truth: 0.5747
+Similarity for ocr and llm: 0.8188
+Z05353721.txt
+Similarity for LLM and truth: 0.2714
+Similarity for ocr and truth: 0.3030
+Similarity for ocr and llm: 0.6810
+Z05353758.txt
+Similarity for LLM and truth: 0.5998
+Similarity for ocr and truth: 0.6416
+Similarity for ocr and llm: 0.8602
+Z05353778.txt
+Similarity for LLM and truth: 0.6553
+Similarity for ocr and truth: 0.6934
+Similarity for ocr and llm: 0.8532
+Z05353836.txt
+Similarity for LLM and truth: 0.6505
+Similarity for ocr and truth: 0.6924
+Similarity for ocr and llm: 0.8667
